@@ -1,0 +1,38 @@
+body{
+    background-color: #eeeeee;
+}
+.title-site{
+    text-align: center;
+    font-family: segoe ui, serif;
+    color: #ae1104;
+}
+a{
+    text-decoration: none;
+    color: #ae1104;
+    transition: 1s;
+    outline: none;
+}
+a:hover{
+    color: #001596;
+    text-decoration: blink;
+    transition: 1s;
+}
+#poem{
+    white-space:pre;
+}
+#title{
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+.links{
+    text-align: right;
+}
+.form-login-registr{
+    margin: auto;
+    width: 300px;
+}
+#poem-box{
+    margin: auto;
+    width: 300px;
+}
